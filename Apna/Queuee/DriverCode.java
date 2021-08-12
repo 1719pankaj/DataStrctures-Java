@@ -30,6 +30,5 @@ public class DriverCode {
         System.out.println(q.deQueue());
         System.out.println(q.deQueue());
 
-
     }
 }
